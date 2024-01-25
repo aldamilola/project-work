@@ -19,4 +19,6 @@ Treat outliers
 ##### 
 ![image](https://github.com/aldamilola/project-work/assets/157021549/4ba01a43-f183-4958-a112-0e0ed6b81622)
 
+######
+![image](https://github.com/aldamilola/project-work/assets/157021549/62fc1e27-89fe-46d0-95d9-681f1d6d4c5a)
   
