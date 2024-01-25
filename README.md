@@ -22,3 +22,5 @@ Treat outliers
 ######
 ![image](https://github.com/aldamilola/project-work/assets/157021549/62fc1e27-89fe-46d0-95d9-681f1d6d4c5a)
   
+#####
+![image](https://github.com/aldamilola/project-work/assets/157021549/10642ac8-888b-468f-a352-45a1f8c29745)
