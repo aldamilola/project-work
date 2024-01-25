@@ -10,7 +10,7 @@ Utilizing the median value, fill in the null values..
 Treat outliers
 ![image](https://github.com/aldamilola/project-work/assets/157021549/982efed0-8f5c-4466-b178-5029d56b9af6)
 
-
+### ![image](https://github.com/aldamilola/project-work/assets/157021549/521283c4-420d-4f0c-bd26-49c0c2effd4b)
 
 
 
